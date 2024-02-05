@@ -13,6 +13,6 @@ app.get('/', (req, res) => {
     )
 })
 
-app.listen(6001, () => {
-  console.log("Customers server is running on port number: 6001")
+app.listen(8001, () => {
+  console.log("Customers server is running on port number: 8001")
 })
